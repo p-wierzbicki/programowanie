@@ -1,0 +1,6 @@
+[
+  { "a": 10, "b": 3, "operacja": "dodaj", "znak": "+" },
+  { "a": 10, "b": 3, "operacja": "odejmij", "znak": "-" },
+  { "a": 10, "b": 3, "operacja": "pomnoz", "znak": "*" },
+  { "a": 10, "b": 3, "operacja": "podziel", "znak": "/" }
+]
